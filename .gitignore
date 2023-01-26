@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Project 2- Part 1- Step 4 
+# Set up project such that week2.csv will not be saved to local git repo or github
+week2.csv
